@@ -1,4 +1,4 @@
-# JS-Calender ft. dark mode.
+# JS-Calendar ft. dark mode.
 
 
 ### Tech Used
